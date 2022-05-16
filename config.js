@@ -26,7 +26,7 @@ var config = {
      */
     imgs: {
         //"心爱的小可爱": "./imgs/xiaokeai.png",
-        "聂友园小可爱": "./imgs/001.jpg",  
+        "聂友园小可爱": "./imgs/001.png",  
         "今天是你的生日": "./imgs/002.jpg",  
         "愿你贪吃不胖": "./imgs/003.jpg",
         "愿你永远健康依旧美好": "./imgs/004.jpg",
